@@ -8,13 +8,13 @@ namespace GeometryShapes
 {
     class Shape
     {
-        private static double _defaultRadius = 2;
-        private static double _defaultheight = 3;
-        private static double _defaultwidth = 4;
+        private static double _defaultRadius = 4;
+        private static double _defaultheight = 6;
+        private static double _defaultwidth = 8;
         private static double _defaultMajor = 5;
         private static double _defaultMinor = 3;
         private static double _defaultLength = 6;
-        private static double _defaultLength2 = 4;
+        private static double _defaultLength2 = 2;
         
       
 

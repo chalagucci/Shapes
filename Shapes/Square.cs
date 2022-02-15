@@ -26,7 +26,7 @@ namespace GeometryShapes
 
         public double perimeter()
         {
-            return 4d * this.side;
+            return 4 * side;
         }
     }
 }
